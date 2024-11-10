@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+# node
+node_modules
+# yarn2
+.yarn
+.pnp.cjs
+.pnp.loader.mjs
+.env
+static/dist
+/coverage
+junit.xml
+dist
+test-dashboard.md
+keys-generator.js
+.dev.vars
+.wrangler
